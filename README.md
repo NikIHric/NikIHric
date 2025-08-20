@@ -1,6 +1,6 @@
 ## Hello friends🦑
 
-💻My coding / programming skills: ☕💻
+💻My coding / programming skills:💻
 🔴HTML5
 🔵CSS3
 🟣Bootstrap
